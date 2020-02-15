@@ -1,7 +1,7 @@
 Hangperson: a scaffolded (!) ESaaS getting-started assignment
 =============================================================
 
-**The app has been deployed to Heroku, check it out here! https://mysterious-springs-14149.herokuapp.com/
+**The app has been deployed to Heroku, check it out here! https://mysterious-springs-14149.herokuapp.com/**
 
 (v1.1, September 2015.  Written by Armando Fox and Nick Herson)
 (some edits by mverdicchio 21 September 2015)
